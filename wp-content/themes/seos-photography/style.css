@@ -829,12 +829,12 @@ header .header-img .site-title a {
 	margin-top: 0;
 	padding: 10px;
 	word-wrap: break-word;
-	font-weight: 900;	color: #fff;
+	font-weight: 900;	color: #a50000;
 }
 
 header .header-img .site-description {
 	text-align: center;
-	color: #fff;
+	color: #a50000;
  	font-family: 'Oswald', sans-serif;
 	font-size: 12px;
 	margin: 0;
@@ -2167,3 +2167,7 @@ object {
 		text-align: left;
 	}
 }
+
+/*------------USER`s styles-----------*/
+
+/*------------HEADER------------------*/

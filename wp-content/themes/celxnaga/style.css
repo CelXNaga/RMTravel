@@ -1,0 +1,15 @@
+/*
+Theme Name: CelXNaga
+Description: My first theme for my WordPress
+Author: Юрий Мачеча
+Author: https://vk.com/celxnaga
+Template: seos-photography
+Version: alpha
+*/
+
+@import url("../seos-photography/style.css");
+
+header .header-img .site-description {
+	color: white;
+ 	
+}
